@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['nombre_72',['nombre',['../structAlumno.html#ae572d042078d0f167eca7bdccf6c192b',1,'Alumno::nombre()'],['../unionAlumno__u.html#a509b7d05dd60d0a2d5fe3e849ed859bb',1,'Alumno_u::nombre()']]],
-  ['notas_73',['notas',['../structAlumno.html#abac4bb47be68be60104d37035afc9ab3',1,'Alumno::notas()'],['../unionAlumno__u.html#ac2856a871a9f55f05fb8c837d7c3c0af',1,'Alumno_u::notas()']]]
+  ['nombre_116',['nombre',['../structAlumno.html#ad17a1fa9936688d7bd0bed70ab7ca9db',1,'Alumno::nombre()'],['../unionAlumno__u.html#a37c9101ac41c3dc0135e1153309f8285',1,'Alumno_u::nombre()']]],
+  ['notas_117',['notas',['../structAlumno.html#a9e00047efa5a0b9871abd9c57a86f0ef',1,'Alumno::notas()'],['../unionAlumno__u.html#ab3e5366ea4b45cbce493229c34ed08f6',1,'Alumno_u::notas()']]]
 ];

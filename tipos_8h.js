@@ -2,8 +2,8 @@ var tipos_8h =
 [
     [ "Alumno", "structAlumno.html", "structAlumno" ],
     [ "Alumno_u", "unionAlumno__u.html", "unionAlumno__u" ],
-    [ "alumno_t", "tipos_8h.html#aa8869cccaeb0b41fda43063bc06fbe46", null ],
-    [ "alumno_u", "tipos_8h.html#a20572013bd613f347a95a0cfd4bd2f4b", null ],
+    [ "alumno_t", "tipos_8h.html#aa4e45ee3aeac7b238a16f207c95482d6", null ],
+    [ "alumno_u", "tipos_8h.html#a874f83516bf78df48dd01f3dce4de9b1", null ],
     [ "COLOR", "tipos_8h.html#af90824509586333cf45ce757d2711ce3", [
       [ "ROJO", "tipos_8h.html#af90824509586333cf45ce757d2711ce3ac6d7a6b86caaffc4c728fed61b1d0e4b", null ],
       [ "VERDE", "tipos_8h.html#af90824509586333cf45ce757d2711ce3af9efd9e6bd17c0580d8a0432ba1b04a2", null ],
