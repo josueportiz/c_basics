@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>C basics for students coursing Sistemas Digitales I: sdg/projects/precompilador/include Directory Reference</title>
+<title>C basics for students coursing Sistemas Digitales I: sdg/projects/precompilador/src/otras_directivas.c File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -63,7 +63,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
-$(document).ready(function(){initNavTree('dir_b81b9cd5221dec7b5870297e3c09a1e9.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('otras__directivas_8c.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -82,29 +82,44 @@ $(document).ready(function(){initNavTree('dir_b81b9cd5221dec7b5870297e3c09a1e9.h
 </div>
 
 <div class="header">
+  <div class="summary">
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
-<div class="title">include Directory Reference</div>  </div>
+<div class="title">otras_directivas.c File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Code example to learn how to use less common pre-compile directive.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &lt;stdio.h&gt;</code><br />
+<code>#include &quot;<a class="el" href="otras__directivas_8h_source.html">otras_directivas.h</a>&quot;</code><br />
+</div>
+<p><a href="otras__directivas_8c_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="files"></a>
-Files</h2></td></tr>
-<tr class="memitem:dprintf_8h"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dprintf_8h.html">dprintf.h</a> <a href="dprintf_8h_source.html">[code]</a></td></tr>
-<tr class="memdesc:dprintf_8h"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enable or disable debug comments. <br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:geometria_8h"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometria_8h.html">geometria.h</a> <a href="geometria_8h_source.html">[code]</a></td></tr>
-<tr class="memdesc:geometria_8h"><td class="mdescLeft">&#160;</td><td class="mdescRight">Header file of <a class="el" href="geometria_8c.html" title="Code example to learn how to use the #define directive.">geometria.c</a>. <br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:otras__directivas_8h"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="otras__directivas_8h.html">otras_directivas.h</a> <a href="otras__directivas_8h_source.html">[code]</a></td></tr>
-<tr class="memdesc:otras__directivas_8h"><td class="mdescLeft">&#160;</td><td class="mdescRight">Header file of <a class="el" href="otras__directivas_8c.html" title="Code example to learn how to use less common pre-compile directive.">otras_directivas.c</a>. <br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ad3f56b5cf1772bb80be6f776fb63df95"><td class="memItemLeft" align="right" valign="top"><a id="ad3f56b5cf1772bb80be6f776fb63df95"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="otras__directivas_8c.html#ad3f56b5cf1772bb80be6f776fb63df95">usa_redefinicion</a> ()</td></tr>
+<tr class="memdesc:ad3f56b5cf1772bb80be6f776fb63df95"><td class="mdescLeft">&#160;</td><td class="mdescRight">Function to explain the impact of the use of the directive <code>#undef</code>. <br /></td></tr>
+<tr class="separator:ad3f56b5cf1772bb80be6f776fb63df95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2125389d1649e2bfb41b5927ebb699fc"><td class="memItemLeft" align="right" valign="top"><a id="a2125389d1649e2bfb41b5927ebb699fc"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="otras__directivas_8c.html#a2125389d1649e2bfb41b5927ebb699fc">detecta_error</a> ()</td></tr>
+<tr class="memdesc:a2125389d1649e2bfb41b5927ebb699fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Function to explain the use of the directive <code>#error</code>. <br /></td></tr>
+<tr class="separator:a2125389d1649e2bfb41b5927ebb699fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-</div><!-- contents -->
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Code example to learn how to use less common pre-compile directive. </p>
+<p>This code focuses on the use of <code>#undef</code>, and <code>#error</code>. It also works with directives such as <code>#ifdef</code> or <code>#if</code>.</p>
+<dl class="section author"><dt>Author</dt><dd>Josué Pagán <a href="#" onclick="location.href='mai'+'lto:'+'j.p'+'ag'+'an@'+'up'+'m.e'+'s'; return false;">j.pag<span style="display: none;">.nosp@m.</span>an@u<span style="display: none;">.nosp@m.</span>pm.es</a> </dd></dl>
+<dl class="section date"><dt>Date</dt><dd>2022-09-11 </dd></dl>
+
+<p class="definition">Definition in file <a class="el" href="otras__directivas_8c_source.html">otras_directivas.c</a>.</p>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_89df6186f44eea04661519cd664ac25f.html">sdg</a></li><li class="navelem"><a class="el" href="dir_d4e481db52069344b2bb511f1111320f.html">projects</a></li><li class="navelem"><a class="el" href="dir_c0bea42728be560443eb65906c416231.html">precompilador</a></li><li class="navelem"><a class="el" href="dir_b81b9cd5221dec7b5870297e3c09a1e9.html">include</a></li>
+    <li class="navelem"><a class="el" href="dir_89df6186f44eea04661519cd664ac25f.html">sdg</a></li><li class="navelem"><a class="el" href="dir_d4e481db52069344b2bb511f1111320f.html">projects</a></li><li class="navelem"><a class="el" href="dir_c0bea42728be560443eb65906c416231.html">precompilador</a></li><li class="navelem"><a class="el" href="dir_9fcf81af9e0f37bc97ed0c97ea26f113.html">src</a></li><li class="navelem"><a class="el" href="otras__directivas_8c.html">otras_directivas.c</a></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
