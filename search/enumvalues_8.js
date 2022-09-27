@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['verde_145',['VERDE',['../tipos_8h.html#af90824509586333cf45ce757d2711ce3af9efd9e6bd17c0580d8a0432ba1b04a2',1,'tipos.h']]],
-  ['viernes_146',['VIERNES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0ace0a4d9503f5e0ecf9237e8bc3fa7d4a',1,'tipos.h']]]
+  ['red_183',['RED',['../arrays_8h.html#a72f7be47410c630dc0dd54234e46ed52af80f9a890089d211842d59625e561f88',1,'arrays.h']]],
+  ['rojo_184',['ROJO',['../tipos_8h.html#af90824509586333cf45ce757d2711ce3ac6d7a6b86caaffc4c728fed61b1d0e4b',1,'tipos.h']]]
 ];

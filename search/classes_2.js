@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['pantalla_85',['Pantalla',['../structPantalla.html',1,'']]],
-  ['pixel_86',['Pixel',['../structPixel.html',1,'']]]
+  ['pantalla_107',['Pantalla',['../structPantalla.html',1,'']]],
+  ['pixel_108',['Pixel',['../structPixel.html',1,'']]]
 ];

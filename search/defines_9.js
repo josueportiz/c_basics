@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['pi_159',['PI',['../otras__directivas_8h.html#a598a3330b3c21701223ee0ca14316eca',1,'otras_directivas.h']]],
-  ['precision_160',['PRECISION',['../geometria_8h.html#a9c7b069fee3c8184e14a7de8e5da2dc6',1,'geometria.h']]]
+  ['ok_202',['OK',['../precompilador_2src_2main_8c.html#aba51915c87d64af47fb1cc59348961c9',1,'main.c']]]
 ];

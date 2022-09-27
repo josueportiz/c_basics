@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jueves_136',['JUEVES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aa514b104630b358194fe9f059ab63424',1,'tipos.h']]]
+  ['domingo_175',['DOMINGO',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0adcab64f38055d1c9e6bc5c13dc3a2d67',1,'tipos.h']]]
 ];

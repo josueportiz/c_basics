@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['temperatura_5fconfort_5fhigh_161',['TEMPERATURA_CONFORT_HIGH',['../bloques__control_8h.html#a67e3c592be977b10493e97331e57c123',1,'bloques_control.h']]],
-  ['temperatura_5fconfort_5flow_162',['TEMPERATURA_CONFORT_LOW',['../bloques__control_8h.html#a79b1d47017e8f5d30fed22f85421a79e',1,'bloques_control.h']]]
+  ['pi_203',['PI',['../otras__directivas_8h.html#a598a3330b3c21701223ee0ca14316eca',1,'otras_directivas.h']]],
+  ['precision_204',['PRECISION',['../geometria_8h.html#a9c7b069fee3c8184e14a7de8e5da2dc6',1,'geometria.h']]]
 ];

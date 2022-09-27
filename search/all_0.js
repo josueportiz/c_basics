@@ -8,5 +8,7 @@ var searchData=
   ['alumno_5fu_5',['Alumno_u',['../unionAlumno__u.html',1,'Alumno_u'],['../tipos_8h.html#a874f83516bf78df48dd01f3dce4de9b1',1,'alumno_u():&#160;tipos.h']]],
   ['ancho_5ffijo_2ec_6',['ancho_fijo.c',['../ancho__fijo_8c.html',1,'']]],
   ['ancho_5ffijo_2eh_7',['ancho_fijo.h',['../ancho__fijo_8h.html',1,'']]],
-  ['azul_8',['AZUL',['../tipos_8h.html#af90824509586333cf45ce757d2711ce3ac2145f36e4c2293e155b3e8cd317a955',1,'tipos.h']]]
+  ['arrays_2ec_8',['arrays.c',['../arrays_8c.html',1,'']]],
+  ['arrays_2eh_9',['arrays.h',['../arrays_8h.html',1,'']]],
+  ['azul_10',['AZUL',['../tipos_8h.html#af90824509586333cf45ce757d2711ce3ac2145f36e4c2293e155b3e8cd317a955',1,'tipos.h']]]
 ];

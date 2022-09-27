@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['rojo_142',['ROJO',['../tipos_8h.html#af90824509586333cf45ce757d2711ce3ac6d7a6b86caaffc4c728fed61b1d0e4b',1,'tipos.h']]]
+  ['martes_180',['MARTES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aa098c69ee2e6dda16f8a032187abfee4',1,'tipos.h']]],
+  ['miercoles_181',['MIERCOLES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aca1065ea9dba56fcfcc31ecbc1dc9407',1,'tipos.h']]]
 ];

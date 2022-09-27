@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['martes_139',['MARTES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aa098c69ee2e6dda16f8a032187abfee4',1,'tipos.h']]],
-  ['miercoles_140',['MIERCOLES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aca1065ea9dba56fcfcc31ecbc1dc9407',1,'tipos.h']]]
+  ['jueves_177',['JUEVES',['../tipos_8h.html#a0e1e1fc79cdbe15ca0456c0737ad36a0aa514b104630b358194fe9f059ab63424',1,'tipos.h']]]
 ];

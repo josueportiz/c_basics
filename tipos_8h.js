@@ -5,9 +5,6 @@ var tipos_8h =
     [ "alumno_t", "tipos_8h.html#aa4e45ee3aeac7b238a16f207c95482d6", null ],
     [ "alumno_u", "tipos_8h.html#a874f83516bf78df48dd01f3dce4de9b1", null ],
     [ "COLOR", "tipos_8h.html#af90824509586333cf45ce757d2711ce3", [
-      [ "RED", "arrayPunteros_2src_2main_8c.html#af90824509586333cf45ce757d2711ce3af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "arrayPunteros_2src_2main_8c.html#af90824509586333cf45ce757d2711ce3aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BLUE", "arrayPunteros_2src_2main_8c.html#af90824509586333cf45ce757d2711ce3a35d6719cb4d7577c031b3d79057a1b79", null ],
       [ "RED", "pantallas_8h.html#af90824509586333cf45ce757d2711ce3af80f9a890089d211842d59625e561f88", null ],
       [ "GREEN", "pantallas_8h.html#af90824509586333cf45ce757d2711ce3aa60bd322f93178d68184e30e162571ca", null ],
       [ "BLUE", "pantallas_8h.html#af90824509586333cf45ce757d2711ce3a35d6719cb4d7577c031b3d79057a1b79", null ],
